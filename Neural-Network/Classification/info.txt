@@ -1,0 +1,1 @@
+This folder includes exercises using NN for classification tasks
